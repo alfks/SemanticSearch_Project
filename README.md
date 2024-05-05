@@ -43,4 +43,4 @@ input_keyword = "피로회복에 좋고 알약을 잘 못 삼키는 사람도 �
 |[송다은](https://github.com/daeun6)|[김세인]()|[문미란]()|[신예린]()|[정은지]()|
 | :---: | :---: | :---: | :---: | :---: |
 | PM | role | role | role | role |
-|<img width="100" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/81478444/21400679-dcc3-4731-9638-d8f717e0bc84"/>|<img width="100" src=""/>|<img width="100" src=""/>|<img width="100" src=""/>|<img width="100" src=""/>|
+|<img width="100" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/81478444/21400679-dcc3-4731-9638-d8f717e0bc84"/>|<img width="100" src=""/>|<img width="100" src=""/>|<img width="100" src="https://avatars.githubusercontent.com/u/109721289?v=4"/>|<img width="100" src=""/>|

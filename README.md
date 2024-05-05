@@ -27,7 +27,7 @@
 ## 4. 사용 방법
 1. Git Clone
 ``` 
-git clone ~~~~
+git clone (https://github.com/alfks/SemanticSearch_Project.git)
 ```
 2. reqirements.txt 설치
 ```

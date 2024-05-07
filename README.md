@@ -23,7 +23,8 @@
 |<br><br>|||||||||||||||||||||
 
 ## 3. 방법론
-- - -<img width="960" alt="프레임워크" src="https://github.com/alfks/SemanticSearch_Project/assets/117802772/a509c1f0-8154-4603-a81b-0578904c1f48">
+<img width="587" alt="프레임워크" src="https://github.com/alfks/SemanticSearch_Project/assets/117802772/3f0b8e86-4140-42b6-8698-dc244f5398ed">
+
 
 
 ## 4. 사용 방법

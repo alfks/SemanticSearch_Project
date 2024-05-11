@@ -41,7 +41,6 @@ pip intall requirements.txt
 input_keyword = "피로회복에 좋고 알약을 잘 못 삼키는 사람도 쉽게 먹을 수 있는 비타민"
 ```
 
-## Program Architecture
 
 ## 참여 인원
 |[송다은](https://github.com/daeun6)|[김세인]()|[문미란]()|[신예린]()|[정은지]()|
